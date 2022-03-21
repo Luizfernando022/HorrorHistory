@@ -72,8 +72,9 @@ body{
     background-color: black;   
      height: 100px;
      width: 80%;
-    max-width: 950px;
-    min-width: 90%;
+     min-width: 90%;
+     max-width: 60%;
+    
     margin: 50px auto;
     display: flex;
     justify-content: space-evenly;
